@@ -1,12 +1,14 @@
-# guidelines
-An opinionated exhaustive list of guidelines &amp; best practices :
+# 🧭 Guidelines
+An opinionated, exhaustive list of guidelines and best practices:
 
-## Code
-### - [CSS Naming](https://getbem.com/)
-### - [Angular structure](https://github.com/o-pinion/angular/wiki/Home)
+## 🔧 Git
+### - [Version - SemVer](https://semver.org/)
+### - [Commit Message - Conventional Commits](https://www.conventionalcommits.org/)
 
-## Git
-### - [Version](https://semver.org/)
-### - [Commit](https://www.conventionalcommits.org/)
-### - [Changelog](https://github.com/o-pinion/angular/wiki/CHANGELOG.md)
-### - [Documentation](https://google.github.io/styleguide/docguide/best_practices.html)
+## 📚 Documentation
+### - [Changelog Format](https://github.com/o-pinion/angular/wiki/CHANGELOG.md)
+### - [Documentation Best Practices - Google Style Guide](https://google.github.io/styleguide/docguide/best_practices.html)
+
+## 💻 Code
+### - [CSS Naming - BEM](https://getbem.com/)
+### - [Angular Project Structure](https://github.com/o-pinion/angular/wiki/Home)
