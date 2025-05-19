@@ -6,7 +6,7 @@ An opinionated, exhaustive list of guidelines and best practices:
 ### - [Commit Message - Conventional Commits](https://www.conventionalcommits.org/)
 
 ## 📚 Documentation
-### - [Changelog Format](https://github.com/o-pinion/angular/wiki/CHANGELOG.md)
+### - [Changelog Format](https://github.com/o-pinion/guidelines/wiki/CHANGELOG.md)
 ### - [Documentation Best Practices - Google Style Guide](https://google.github.io/styleguide/docguide/best_practices.html)
 
 ## 💻 Code
